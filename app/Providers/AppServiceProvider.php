@@ -2,7 +2,7 @@
 
 namespace App\Providers;
 
-use http\Url;
+use http\env\Url;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
